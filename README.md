@@ -2,7 +2,7 @@
 
 Un outil qui, pour chaque joueur de Serie A, trouve les joueurs qui lui ressemblent le plus statistiquement, **au même poste**. Cas d'usage : un club ne peut pas se payer un joueur et cherche des alternatives au profil proche.
 
-**Site en ligne : [À COMPLÉTER : lien GitHub Pages]**
+**Site en ligne : https://29grs92.github.io/scouting-serie-a-similarite/**
 
 
 ## Ce que fait le site
