@@ -4,7 +4,6 @@ Un outil qui, pour chaque joueur de Serie A, trouve les joueurs qui lui ressembl
 
 **Site en ligne : [À COMPLÉTER : lien GitHub Pages]**
 
-![Aperçu du site](docs/apercu.png)
 
 ## Ce que fait le site
 
@@ -52,5 +51,4 @@ Une annexe facultative du notebook montre l'export vers une base MySQL (version 
 Statistiques : [Sofascore](https://www.sofascore.com), saison 2025/26 de Serie A.
 
 ## Auteur
-
-[À COMPLÉTER : ton nom et un lien vers ton profil LinkedIn ou ton portfolio]
+29GRS92
