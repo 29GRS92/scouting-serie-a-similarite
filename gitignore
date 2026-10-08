@@ -1,0 +1,6 @@
+# fichiers de données intermédiaires (reconstruits par le notebook)
+*.csv
+
+# fichiers temporaires de Jupyter et de Python
+.ipynb_checkpoints/
+__pycache__/
